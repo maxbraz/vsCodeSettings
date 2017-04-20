@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "eslint.nodePath": "/usr/local/bin/eslint",
+    "eslint.options": {
+        "configFile": "/Users/Max/.eslintrc",
+        "autoFixOnSave": true
+    },
+    "editor.wordWrap": "on",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.renderIndentGuides": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Operator Mono",
+    "emmet.syntaxProfiles": {
+      "javascript": "html"
+    }
+}
